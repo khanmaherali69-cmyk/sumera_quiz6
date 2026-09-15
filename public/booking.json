@@ -1,0 +1,15 @@
+[
+  {
+    "id":1,
+    "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789367308/1_kaxv1x.jpg",
+     "tag":"genius",
+     "title":"Hotal Regent",
+     "location":"Karachi,sindh",
+     "rating-no":8.5,
+     "rating-comment":"very good",
+     "no_of_people_rating":5,
+     "total_price":30000,
+     "price":20000
+    
+  } 
+]
